@@ -2,7 +2,8 @@
 
 ### <ins>Work Experience<ins>
 **Surveyor**
-  - *International Union of Operating Engineers* | New York, NY | 2007-2022
+  - *International Union of Operating Engineers*
+    - New York, NY * 2007-2022
   - established baseline control, and provided layout and asbuilts throughout the duration of major infrastructure projects
   - monitored existing structures before, during, and after construction to ensure their integrity
   - coordinated with site engineers, project managers and architects as well as tradesworkers to keep projects on schedule
