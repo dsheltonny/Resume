@@ -4,10 +4,11 @@
 **Surveyor**
   - *International Union of Operating Engineers*
     - New York, NY * 2007-2022
-  - established baseline control, and provided layout and asbuilts throughout the duration of major infrastructure projects
-  - monitored existing structures before, during, and after construction to ensure their integrity
-  - coordinated with site engineers, project managers and architects as well as tradesworkers to keep projects on schedule
-  - utilized the latest tecnology including: robotic total stations, digital levels, scanners and GPS, to provide accurate layout, data collection, monitoring, and measurements
+  - established baseline control and provided layout and as-builts throughout major infrastructure projects
+  - monitored existing structures before, during, and after construction to ensure their structural integrity
+  - coordinated with site engineers, project managers, and architects as well as trades workers to keep projects on schedule
+  - utilized the latest technology including robotic total stations, digital levels, scanners, and GPS, to provide accurate layout, data collection, monitoring, and measurements
+
 
 ### <ins>Education<ins>
 - **MS, Data Science**
