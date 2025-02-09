@@ -3,7 +3,8 @@
 ### <ins>Work Experience<ins>
 **Customer Service Specialist**
 - *Home Depot*
-    - Woodstock, GA | 2024 - present
+    - Woodstock, GA
+    - 2024 - present
 - Assist customers with returns, exchanges, special orders, curbside pickup, and phone sales, ensuring a smooth process
 - Utilize One Return and POS, handle cash transactions, and monitor returns for fraudulent activity
 - Collaborate with other departments to ensure all the customer’s needs are met
@@ -11,11 +12,16 @@
 
 **Surveyor**
   - *International Union of Operating Engineers*
-      - New York, NY | 2007-2022
+      - New York, NY
+      - 2007-2022
   - *Major Companies:*
-      - Skanska USA Civil NE | Garden State Engineering | NY Geomatics
+      - Skanska USA Civil NE
+      - Garden State Engineering
+      - NY Geomatics
   - *Major Projects:*
-      - 86th St Cavern Mining (2nd Avenue Subway) | LaGuardia Airport Central Terminal B/East Roadways | Mario M. Cuomo Bridge
+      - 86th St Cavern Mining (2nd Avenue Subway)
+      - LaGuardia Airport Central Terminal B/East Roadways
+      - Mario M. Cuomo Bridge
   -  Provided comprehensive surveys on mega infrastructure projects within the public and private sectors. Areas of expertise include rail, road, and tunnel work.
   -  Coordinated with site engineers, project managers, and architects as well as trades workers to keep projects accurate and on schedule
   -  Conducted as-built surveys to confirm the accuracy of work against design plans, identified discrepancies and coordinated with teams in the field and office to resolve issues
@@ -47,8 +53,12 @@ Analytics Capstone Project | Algorithms for Data Science | Scalable Databases | 
 FAA Part 107 Certified (January 2020) | MTA NYC Transit Track Safety (September 2022) | 30-hour Construction Safety and Health (2020) | 8 hour Fall Prevention | 2 hour Drug and Alcohol Awareness | Secure Worker Access Consortium Identification (SWAC) | NY811 Excavator Training and Education Program | EMT-B (Rockland EMS, 2011)
 
 ### <ins>Volunteer & Leadership<ins>
-**Bridge/Civil Construction Expert** |*Engineer Girl* | Wharton, NJ | 2022 - May 2024
+**Bridge/Civil Construction Expert**
+-  *Engineer Girl*
+    - Wharton, NJ, 2022 - May 2024
 - Afterschool STEM program, coaching third through fifth-grade girls instilling passion for science & self-confidence in students through individual and group skill-building projects
 
-**EMT** | *Nanuet Community Ambulance Corps* | Nanuet, NY | 2011
+**EMT**
+- *Nanuet Community Ambulance Corps*
+    - Nanuet, NY, 2011
 - Volunteered with local ambulance corps, responded to medical emergencies within the community, and provided patients with medical assistance and transportation to emergency rooms for further treatment. 
