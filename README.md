@@ -2,15 +2,20 @@
 
 ### <ins>Work Experience<ins>
 **Customer Service Specialist**
-- *Home Depot* | Woodstock, GA | 2024 - present
+- *Home Depot*
+    - Woodstock, GA | 2024 - present
 - Assist customers with returns, exchanges, special orders, curbside pickup, and phone sales, ensuring a smooth process
 - Utilize One Return and POS, handle cash transactions, and monitor returns for fraudulent activity
 - Collaborate with other departments to ensure all the customer’s needs are met
 - Member of the Voice of the Associate (VOA) committee
 
 **Surveyor**
-  - *International Union of Operating Engineers* | New York, NY | 2007-2022
-  - *Major Companies:* Skanska USA Civil NE | Garden State Engineering | NY Geomatics
+  - *International Union of Operating Engineers*
+      - New York, NY | 2007-2022
+  - *Major Companies:*
+      - Skanska USA Civil NE | Garden State Engineering | NY Geomatics
+  - *Major Projects:*
+      - 86th St Cavern Mining (2nd Avenue Subway) | LaGuardia Airport Central Terminal B/East Roadways | Mario M. Cuomo Bridge
   -  Provided comprehensive surveys on mega infrastructure projects within the public and private sectors. Areas of expertise include rail, road, and tunnel work.
   -  Coordinated with site engineers, project managers, and architects as well as trades workers to keep projects accurate and on schedule
   -  Conducted as-built surveys to confirm the accuracy of work against design plans, identified discrepancies and coordinated with teams in the field and office to resolve issues
